@@ -1,1 +1,1 @@
-# CorretorOrtogr-fico
+# CorretorOrtográfico
