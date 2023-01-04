@@ -2,7 +2,7 @@
   # Corretor Ortográfico 
 </h1>
 
-Um projeto com NLP (Processaento de Linguagem Natural), para criação de um corretor de texto.
+Um projeto usando NLP (Processamento de Linguagem Natural), para criação de um corretor de texto.
 
 ## Tecnologias e Bibliotecas
 - 🐍 Python
