@@ -6,7 +6,7 @@ Um projeto usando NLP (Processamento de Linguagem Natural), para criação de um
 
 ## Tecnologias e Bibliotecas
 - 🐍 Python
-- 🧮 NLTK
+- 📔 NLTK
 
 ## Fontes
 
